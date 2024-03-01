@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(32, 53, 53);
+}
+
+#title {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#form {
+    margin: 0 auto;
+    width: 400px;
+    padding-bottom: 25px;
+}
+
